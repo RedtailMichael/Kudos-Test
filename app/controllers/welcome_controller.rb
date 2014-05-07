@@ -6,7 +6,7 @@ class WelcomeController < ActionController::Base
     layout :users_layout
 
     def index
-        @current_user = true
+        @current_user = false
     end
 
     private
