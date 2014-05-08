@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+# Current bootstrap version for the Imaging product.
+# http://getbootstrap.com/2.3.2/
+gem 'bootstrap-sass', '2.3.2.1'
+gem 'bootstrap-select-rails', '1.3.0.1'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
 
