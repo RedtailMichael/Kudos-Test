@@ -7,6 +7,8 @@ class WelcomeController < ApplicationController
 
     def index
         @current_user = true
+
+        # Mac testing..s
     end
 
 end
